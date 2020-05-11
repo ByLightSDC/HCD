@@ -1,2 +1,2 @@
 # HCD
-Parent Repository for Human Centered Design
+Repository for Human Centered Design
