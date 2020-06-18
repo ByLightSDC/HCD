@@ -28,7 +28,7 @@
 
 
 
-## PHASE 2: Discovery Research 
+## <br><br>PHASE 2: Discovery Research 
 
 (Date) 
 
@@ -57,7 +57,7 @@
 
  
 
-## PHASE 3: Evaluative Research 
+## <br><br>PHASE 3: Evaluative Research 
 
 (Date) 
 
