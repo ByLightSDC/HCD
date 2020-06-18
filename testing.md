@@ -1,10 +1,10 @@
-# PHASE 1: Foundational Research 
+## PHASE 1: Foundational Research 
 
 (Date) 
 
  
 
-## Goal: What do we want to accomplish out of Phase 1 research (Define problem space) 
+### Goal: What do we want to accomplish out of Phase 1 research (Define problem space) 
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-### Milestone 1 
+#### Milestone 1 
 
 
 
@@ -28,11 +28,11 @@
 
 
 
-# PHASE 2: Discovery Research 
+## PHASE 2: Discovery Research 
 
 (Date) 
 
-## Goal: What do we want to accomplish out of Phase 1 research (Define problem space)
+### Goal: What do we want to accomplish out of Phase 1 research (Define problem space)
  
 
 
@@ -44,7 +44,7 @@
 
  
 
-### Milestone 1 
+#### Milestone 1 
 
 
 
@@ -56,12 +56,12 @@
 
  
 
-# PHASE 3: Evaluative Research 
+## PHASE 3: Evaluative Research 
 
 (Date) 
 
  
-## Goal: What do we want to accomplish out of Phase 1 research (Define problem space) 
+### Goal: What do we want to accomplish out of Phase 1 research (Define problem space) 
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-### Milestone 1
+#### Milestone 1
 
 
 
