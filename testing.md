@@ -23,7 +23,12 @@
 
 | Stakeholder Meeting  | Objectives  | Date  |
 |-|-|-|
-| (links to Miro)  | 1. Present initial research data  2. Identify assumptions and gaps of knowledge  3. Q&A  4. Present sitemap/content map  5. Overview of next steps - research & development  |   |
+| (links to Miro)  | 
+1. Present initial research data  
+2. Identify assumptions and gaps of knowledge  
+3. Q&A  
+4. Present sitemap/content map  
+5. Overview of next steps - research & development  |   |
 |  |  |  |
 
 
@@ -50,7 +55,12 @@
 
 | Stakeholder Meeting  | Objectives  | Date  |
 |-|-|-|
-| (links to Miro)  | 1. Present initial research data  2. Identify assumptions and gaps of knowledge  3. Q&A  4. Present sitemap/content map  5. Overview of next steps - research & development  |   |
+| (links to Miro)  | 
+1. Present initial research data  
+2. Identify assumptions and gaps of knowledge  
+3. Q&A  
+4. Present sitemap/content map  
+5. Overview of next steps - research & development  |   |
 |  |  |  |
 
 
@@ -80,5 +90,11 @@
 
 | Stakeholder Meeting  | Objectives  | Date  |
 |-|-|-|
-| (links to Miro)  | 1. Present initial research data  2. Identify assumptions and gaps of knowledge  3. Q&A  4. Present sitemap/content map  5. Overview of next steps - research & development  |   |
+| (links to Miro)  | 
+1. Present initial research data  
+2. Identify assumptions and gaps of knowledge  
+3. Q&A  
+4. Present sitemap/content map  
+5. Overview of next steps - research & development  |   |
 |  |  |  |
+ 
